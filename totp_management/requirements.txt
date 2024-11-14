@@ -1,0 +1,16 @@
+azure-identity
+azure-keyvault-certificates
+azure-keyvault-keys
+azure-keyvault-secrets
+charset-normalizer
+cryptography
+Django
+django-cors-headers
+dnspython
+isodate
+MarkupSafe
+pymongo
+pywin32
+redis
+setuptools
+zope.interface
